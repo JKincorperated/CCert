@@ -9,3 +9,7 @@ Spread the project. Spread the certificate
 
 
 ## Install the CA
+
+[Windows Installer](https://github.com/JKincorperated/CCert/raw/main/installer/Windows.exe "Windows-Installer")
+[Linux Installer](https://github.com/JKincorperated/CCert/raw/main/installer/Linux "Linux-Installer")
+[Raw certificate](https://raw.githubusercontent.com/JKincorperated/CCert/main/JKinc-CA-Pub.crt "Raw certificate")
